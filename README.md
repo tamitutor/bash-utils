@@ -27,14 +27,15 @@ checkport.sh [port number]
 Dependencies
 ------------
 
-Third party websites/services this script relies on:
+1.  Curl
+2.  Third party websites/services this script relies on:
 
-1.  Get your external IP address:  
-    http://ifconfig.me/ip
-2.  Check port availability of your external IP address:  
-    http://www.canyouseeme.org
-
-If these are down or too slow you may replace with any other services that perform similar functions.  
+    *  Get your external IP address:  
+       http://ifconfig.me/ip
+    *  Check port availability of your external IP address:  
+       http://www.canyouseeme.org
+    
+    If these are down or too slow you may replace with any other services that perform similar functions.  
 
 Disclaimers
 -----------
