@@ -28,7 +28,7 @@ Dependencies
 ------------
 
 1.  Curl
-2.  Third party websites/services this script relies on:
+2.  Third party websites/services:
 
     *  Get your external IP address:  
        http://ifconfig.me/ip
