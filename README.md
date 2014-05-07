@@ -29,11 +29,13 @@ Dependencies
 
 Third party websites/services this script relies on:
 
-1.  Get your external IP address:  ifconfig.me/ip
-2.  Check port availability of your external IP address:  http://www.canyouseeme.org
+1.  Get your external IP address:  
+    http://ifconfig.me/ip
+2.  Check port availability of your external IP address:  
+    http://www.canyouseeme.org
 
 If these are down or too slow you may replace with any other services that perform similar functions.  
 
 Disclaimers
 -----------
-Be aware that determining the result of the port availability is specific to the output received from http://www.canyouseeme.org.  If you swap out canyouseeme.org with another site or service you will need to modify the curl command on line 9 of the script accordingly.
+Be aware that determining the result of the port availability is specific to the output received from http://www.canyouseeme.org.  If you swap out canyouseeme.org with another site or service you will need to modify the curl and grep command on line 9 of the script accordingly.
