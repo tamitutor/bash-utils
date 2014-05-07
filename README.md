@@ -11,7 +11,7 @@ You are using some sort of *nix or BSD flavored system with a bash shell
 Installation
 ------------
 
-Very simple: download and install to a bin directory in your bath
+Very simple: download and install to a bin directory in your path
 
   1.  To find what directories are in your path type the following at the command line
   
