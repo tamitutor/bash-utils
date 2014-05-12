@@ -40,3 +40,7 @@ Dependencies
 Disclaimers
 -----------
 Be aware that determining the result of the port availability is specific to the output received from http://www.canyouseeme.org.  If you swap out canyouseeme.org with another site or service you will need to modify the curl and grep command on line 9 of the script accordingly.
+
+WhatIsMyIp
+==========
+Another simple script to get your external IP address without having to visit a website.  For other documentation/installation instructions see above...
